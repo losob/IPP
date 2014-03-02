@@ -2,27 +2,7 @@
 <root>
 	<>
 		John
-	</>
-	<>
-		Smith
-	</>
-	< value="25"/>
-	<>
-		<>
-			21 2nd Street
-		</>
-		<>
-			New York
-		</>
-		<>
-			NY
-		</>
-		<>
-			10021
-		</>
-	</>
-	<>
-		<array size="2">
+	
 			<>
 			<>
 				home
